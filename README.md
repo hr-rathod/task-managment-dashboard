@@ -1,8 +1,28 @@
-# React + Vite
+# React Task Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive task management dashboard built with React, Ant Design, and Formik.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive**: Adapts to various screen sizes.
+- **UI Library**: Styled with Ant Design for a consistent look.
+- **State Management**: Redux for efficient state handling.
+- **Task Actions**: Add, complete, and delete tasks.
+- **Sorting and Filtering**: Organize tasks easily.
+- **React Router**: Smooth navigation within the dashboard.
+- **Accessibility**: Designed to be accessible and follows best practices.
+
+## Technologies
+
+- React
+- Ant Design
+- Redux
+- Formik
+- Yup
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Run the development server: `npm run dev`.
+
